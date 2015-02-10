@@ -1,0 +1,21 @@
+Matt Downs
+Donovan Justice
+CS335 Final Project Manual
+
+Free-View Mode:
+W - Move forward (zoom-in)
+S - Move back (zoom-out)
+A - Move left
+D - Move right
+R - Move up
+F - Move down
+Mouse click and drag rotates look
+
+Racing Mode:
+W - Accelerate
+S - Braking/Reverse
+A - Turn Left
+D - Turn Right
+T - Toggle Camera between first person, third person, and mode to look at rotation of tires
+Space Bar - Pauses game, initialized free-view mode
+
